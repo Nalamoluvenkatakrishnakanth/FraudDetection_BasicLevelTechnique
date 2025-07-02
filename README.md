@@ -19,7 +19,7 @@ This project focuses on detecting fraudulent transactions using a supervised mac
 ## Methodology
 1.Data Preprocessing:
 
-    -Handled class imbalance using under/over sampling 
+    -Handled class imbalance using SMOTE Technique
 
 
 2.Model Training:
