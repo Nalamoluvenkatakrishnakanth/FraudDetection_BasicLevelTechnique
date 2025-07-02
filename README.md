@@ -9,10 +9,10 @@ This project focuses on detecting fraudulent transactions using a supervised mac
 
 3.Run each cell sequentially to:
 
-  Load and preprocess data
+    Load and preprocess data
 
-  Train the logistic regression model
+    Train the logistic regression model
 
-  Evaluate model performance
+    Evaluate model performance
 
-  Visualize results
+    Visualize results
