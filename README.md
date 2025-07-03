@@ -39,3 +39,14 @@ This project focuses on detecting fraudulent transactions using a supervised mac
     -Recall
 
     -F1-score
+
+
+## Result
+
+| Metric    | Score (example) |
+| --------- | --------------- |
+| Accuracy  | 0.97            |
+| Precision | 0.92            |
+| Recall    | 0.89            |
+| F1-Score  | 0.90            |
+
