@@ -10,26 +10,27 @@ This project focuses on detecting fraudulent transactions using a supervised mac
 
 3.Run each cell sequentially to:
 
-    Load and preprocess data
+    i) Load and preprocess data.
 
-    Train the logistic regression model
+    ii) Train the logistic regression model.
 
-    Evaluate model performance
+    iii) Evaluate model performance.
 
-    Visualize results
+    iv) Visualize results.
+    
 ## Methodology
 1.Data Preprocessing:
 
-    -Handled class imbalance using SMOTE Technique
+    -Handled class imbalance using SMOTE Technique.
 
 
 2.Model Training:
 
-        Used Logistic Regression from scikit-learn
+        -Used Logistic Regression from scikit-learn.
 
-        Trained on features selected from the dataset
+        -Trained on features selected from the dataset.
 
-        Split data into training and testing sets
+        -Split data into training and testing sets.
 
 3.Performance Evaluation:
 
